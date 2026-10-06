@@ -1,0 +1,18 @@
+TOO MAGNUM
+BIN: 4601234567890
+Address: Almaty, Abay Ave 10
+Date: 06.10.2026 13:25:47
+--------------------------------
+1 x Coca-Cola 0.5L          650.00
+2 x Snickers                 900.00
+1 x Bread                    350.00
+3 x Water 1L                 750.00
+1 x Apples 1kg             1,200.00
+--------------------------------
+Subtotal                    3,850.00
+Discount                      250.00
+TOTAL                       3,600.00
+Payment method: BANK CARD
+Card: **** 1234
+Cashier: Aigerim
+Thank you for your purchase!
